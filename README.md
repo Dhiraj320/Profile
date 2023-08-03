@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Kumawat</h1>
-<h3 align="center">A passionate Flutter frontend developer and Java Developer from India</h3>
+<h3 align="center">A passionate Flutter frontend Developer and Java Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj320&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj320" /> </p>
 
